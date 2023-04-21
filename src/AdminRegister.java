@@ -99,7 +99,7 @@ public class AdminRegister extends JFrame implements ActionListener,FocusListene
 
 	public static void main(String[] args)throws ClassNotFoundException, InstantiationException, IllegalAccessException, UnsupportedLookAndFeelException  {
 		AdminRegister obj=new AdminRegister();
-		// TODO Auto-generated method stub
+		
 
 	}
 
