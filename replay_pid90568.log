@@ -1,7 +1,7 @@
 JvmtiExport can_access_local_variables 0
 JvmtiExport can_hotswap_or_post_breakpoint 0
 JvmtiExport can_post_on_exceptions 0
-# 107 ciObject found
+
 ciMethod sun/java2d/loops/SurfaceType getUniqueID ()I 3393 1 424 0 0
 ciMethod sun/java2d/loops/GraphicsPrimitive makeUniqueID (ILsun/java2d/loops/SurfaceType;Lsun/java2d/loops/CompositeType;Lsun/java2d/loops/SurfaceType;)I 2121 1 5454 0 -1
 ciMethod sun/java2d/loops/CompositeType getUniqueID ()I 2041 1 255 0 0
